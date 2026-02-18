@@ -1,5 +1,6 @@
 body{
     margin: 0;
+    overflow: hidden;
 }
 p,h1,h2,h3,h4,h5{
     color: #f0696f;
@@ -22,8 +23,8 @@ purple {
 }
 span {
     display: inline-block;
-    width: 1024px;
-    height: 768px;
+    width: 933px;
+    height: 663px;
     overflow: hidden;
 }
 img.background{
