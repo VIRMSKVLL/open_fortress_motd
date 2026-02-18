@@ -62,7 +62,6 @@ img.background{
 }
 .titleContainer img {
     height:1em;
-    transform: translate(0px, -3px);
 }
 .fillContainer {
     display: flex;
