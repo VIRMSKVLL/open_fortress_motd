@@ -52,6 +52,8 @@ img.background{
     outline: 4px solid #121c21;
     border: 2px solid #384950;
     gap: 8px;
+
+    box-shadow: 4.0px 8.0px 8.0px hsl(0deg 0% 0% / 0.38);
 }
 .titleContainer {
     display: flex;
