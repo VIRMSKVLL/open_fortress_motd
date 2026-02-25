@@ -83,7 +83,7 @@ img.background{
 @font-face{
     font-gamily: "scientifica";
     font-style: normal;
-    src: url("../fonts/scientifica.css")
+    src: url("../fonts/scientifica.ttf")
 }
 #content{
     padding: 3em 4em;
