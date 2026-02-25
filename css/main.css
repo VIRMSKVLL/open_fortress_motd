@@ -73,7 +73,7 @@ img.background{
     text-align: left;
 }
 .takanaka {
-    background: url('https://motd.gump.live/img/takanaka_thumbsup.png');
+    background: url('../img/takanaka_thumbsup.png');
     background-repeat: no-repeat;
     background-position: center;
     background-size: 36%;
@@ -83,7 +83,7 @@ img.background{
 @font-face{
     font-gamily: "scientifica";
     font-style: normal;
-    src: url("https://motd.gump.live/fonts/scientifica.otf")
+    src: url("../fonts/scientifica.css")
 }
 #content{
     padding: 3em 4em;
