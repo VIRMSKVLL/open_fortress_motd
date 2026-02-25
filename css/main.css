@@ -81,7 +81,7 @@ img.background{
     overflow:hidden;
 }
 @font-face{
-    font-gamily: "scientifica";
+    font-family: "scientifica";
     font-style: normal;
     src: url("../fonts/scientifica.ttf")
 }
