@@ -21,6 +21,9 @@ grey {
 purple {
     color: #cdb4cd;
 }
+a {
+    text-decoration: none !important;
+}
 span {
     display: inline-block;
     width: 933px;
