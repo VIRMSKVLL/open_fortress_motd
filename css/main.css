@@ -18,10 +18,14 @@ p{
 grey {
     color: #384950;
 }
+white {
+    color: #aaafb2;
+}
 purple {
     color: #cdb4cd;
 }
 a {
+    color: #cdb4cd;
     text-decoration: none !important;
 }
 span {
