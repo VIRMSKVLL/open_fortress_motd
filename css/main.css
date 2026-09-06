@@ -87,6 +87,19 @@ img.background{
     height: 36%;
     overflow:hidden;
 }
+
+.virmilla {
+    background: url('../img/virmilla.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 16em;
+    height: 16em;
+    overflow:hidden;
+    transform: translate(0px, 16px);
+}
+
+
+
 @font-face{
     font-family: "scientifica";
     font-style: normal;
