@@ -95,7 +95,7 @@ img.background{
     background-size: 16em;
     height: 16em;
     overflow:hidden;
-    transform: translate(0px, 16px);
+    transform: translate(16px, 16px);
     filter: drop-shadow(2px 2px 4px hsl(0deg 0% 0% / 0.38));
 }
 
