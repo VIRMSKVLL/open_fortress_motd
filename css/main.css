@@ -47,7 +47,7 @@ img.background{
     gap: 16px;
 }
 .bouquetBox {
-    font-family: "scientifica";
+    font-family: "sm64";
     font-size: 0.8em;
     color: #aaafb2;
 
@@ -98,12 +98,30 @@ img.background{
     transform: translate(0px, 16px);
 }
 
+.virmilla h1 {
+    font-family: "Staatliches_Padded";
+    padding-top: 0.5em;
+    font-size: 4em;
+    word-spacing: 3em;
+    transform: scale(1.4,4) translate(-0.2em,0px);
+    text-shadow: 0px 2px 0px #F5CBA0, 0px 4px 0px #94A7A8, 0px 6px 0px #121c21;
+}
 
 
 @font-face{
     font-family: "scientifica";
     font-style: normal;
     src: url("../fonts/scientifica.ttf")
+}
+@font-face{
+    font-family: "sm64";
+    font-style: normal;
+    src: url("../fonts/super_mario_64_unicode.otf")
+}
+@font-face{
+    font-family: "Staatliches_Padded";
+    font-style: normal;
+    src: url("../fonts/Staatliches_Padded.ttf")
 }
 #content{
     padding: 3em 4em;
