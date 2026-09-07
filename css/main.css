@@ -1,5 +1,5 @@
 body{
-    margin: 0;
+    margin: 0px;
     overflow: hidden;
 }
 p,h1,h2,h3,h4,h5{
@@ -124,6 +124,6 @@ img.background{
     src: url("../fonts/Staatliches_Padded.ttf")
 }
 #content{
-    padding: 3em 4em;
+    padding: 2.5em 4em;
     height: 100%;
 }
